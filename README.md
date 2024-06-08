@@ -14,7 +14,8 @@
 <p><strong>Everything else:</strong></p>
 <p>I am a Computer Programming student at Georgian College. I like learning and creating stuff. </p>
 <br/> -->
-<img align="right" alt="GIF" src="/data/san.gif" width="350, border-radius: 50%"/>
+<img align="right" alt="GIF" src="/data/san.gif" style="border-radius: 50%; width: 350px;" />
+
 
 
 <!-- ![Visits badge](https://badges.pufler.dev/visits/iamsandipacharya/iamsandipacharya?style=for-the-badge) -->

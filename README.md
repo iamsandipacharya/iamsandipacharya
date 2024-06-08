@@ -14,7 +14,7 @@
 <p><strong>Everything else:</strong></p>
 <p>I am a Computer Programming student at Georgian College. I like learning and creating stuff. </p>
 <br/> -->
-<img align="right" alt="GIF" src="/data/san.gif width="350"/>
+<img align="right" alt="GIF" src="/data/san.gif" width="350"/>
 
 <!-- ![Visits badge](https://badges.pufler.dev/visits/iamsandipacharya/iamsandipacharya?style=for-the-badge) -->
 ## Hi 👋, I am Sandip Acharya, a technology ❤ enthusiast.

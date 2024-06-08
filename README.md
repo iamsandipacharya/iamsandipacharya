@@ -34,7 +34,7 @@
 <!-- ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/iamsandipacharya/iamsandipacharya/blob/output/github-contribution-grid-snake.svg) -->
   
--- ## Stuff I do/know 👨‍💻 🛠:
+## Stuff I do/know 👨‍💻 🛠:
 </br>
 <p align="center">
 

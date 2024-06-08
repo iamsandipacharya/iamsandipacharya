@@ -55,6 +55,7 @@
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" width="240" hight="50">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/eclipse.svg">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/pc.svg" alt="pc" width="110" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="powershell" width="170" hight="50">
 </br>
